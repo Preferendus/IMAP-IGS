@@ -1,5 +1,9 @@
 # IMAP-IGS
-A multi-objective design-decision optimisation (MODO) platform implementing IMAP (Integrative Maximization of Aggregated Preferences) via the IGS Solver Family and the A-FINE Aggregator. Integrates multi-actor preferences, multi-level performance models to find the best-fit, preference-consistent, design-decision valid solution.
+A multidimensional, multi-objective design-decision optimisation (MODO) platform implementing IMAP 
+(Integrative Maximization of Aggregated Preferences) through the IGS Solver Family and the A-FINE Aggregator. It 
+integrates multi-actor preference functions, multi-level system performance models, and best-fit solver algorithms 
+to explore complex design spaces and discover preference-consistent, best-fit-for-common-purpose solutions 
+using A-FINE’s unique decision-valid preference aggregation. 
 
 ## Feedback
 If you have any feedback, please reach out to [Emre](emreozer14@gmail.com). For details about the Odesys-Preferendus and its application, the reader can contact info@odesys.nl.
