@@ -5,6 +5,8 @@ integrates multi-actor preference functions, multi-level system performance mode
 to explore complex design spaces and discover preference-consistent, best-fit-for-common-purpose solutions 
 using A-FINE’s unique decision-valid preference aggregation. 
 
+The family of IGS solvers can be found in [IMAP-IGS](https://github.com/TUDelft-IMAP-IGS)
+
 ## Feedback
 If you have any feedback, please reach out to [Emre](emreozer14@gmail.com). For details about the Odesys-Preferendus and its application, the reader can contact info@odesys.nl.
 Note: For IMAP-IGS that relates to the article Timp, L., Yorke-Smith, N., and Wolfert, A. R. M. (2026) see also [IMAP-IGS](https://github.com/TUDelft-IMAP-IGS)
